@@ -1,0 +1,51 @@
+baseURL = ""
+title = "Benzyme Ventures"
+theme = "tailbliss"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 9
+darkmode_js = [ "assets/js/darkmode.js" ]
+enableInlineShortcodes = true
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+linkifyProtocol = "https"
+strikethrough = true
+table = true
+taskList = true
+
+  [markup.goldmark.extensions.typographer]
+  apostrophe = "&rsquo;"
+  disable = false
+  ellipsis = "&hellip;"
+  emDash = "&mdash;"
+  enDash = "&ndash;"
+  leftAngleQuote = "&laquo;"
+  leftDoubleQuote = "&ldquo;"
+  leftSingleQuote = "&lsquo;"
+  rightAngleQuote = "&raquo;"
+  rightDoubleQuote = "&rdquo;"
+  rightSingleQuote = "&rsquo;"
+
+[markup.goldmark.parser]
+autoHeadingID = true
+autoHeadingIDType = "github"
+wrapStandAloneImageWithinParagraph = true
+
+  [markup.goldmark.parser.attribute]
+  block = false
+  title = true
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+
+[params]
+moto = "Welcome to Benzyme Ventures!"
