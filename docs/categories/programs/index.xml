@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Benzyme Ventures</title>
+    <link>/categories/programs/</link>
+    <description>Recent content in Programs on Benzyme Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate>
+    <atom:link href="/categories/programs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biopieces</title>
+      <link>/posts/program-1/</link>
+      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
+      <guid>/posts/program-1/</guid>
+      <description>BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.</description>
+    </item>
+    <item>
+      <title>R-Guild</title>
+      <link>/posts/program-2/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/program-2/</guid>
+      <description>R-Guild is a mentoring program initiated by Benzyme Ventures that aims to create an interactive platform for bioscience undergraduates and researchers to share knowledge, experiences, and advice in order to give these undergraduates a head start at achieving their dreams.</description>
+    </item>
+    <item>
+      <title>Reports</title>
+      <link>/posts/program-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/program-3/</guid>
+      <description>Reports is a Benzyme Ventures project that aims to encourage undergraduate students to write about the topics they are passionate about in the field of bioscience. The program provides editing and feedback to help students improve their writing style and delivery, and publishes their blog posts on a public platform to share their ideas with a wider audience.</description>
+    </item>
+    <item>
+      <title>University Ambassadors</title>
+      <link>/posts/program-4/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>/posts/program-4/</guid>
+      <description>The University Ambassadors program is an initiative by Benzyme Ventures to connect with Sri Lankan university students who are passionate about biotech. Ambassadors act as a bridge between Benzyme and the students, organizing events and workshops to help them learn and grow within the industry and build a community of biotech enthusiasts.</description>
+    </item>
+  </channel>
+</rss>

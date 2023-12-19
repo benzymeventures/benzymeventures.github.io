@@ -49,3 +49,7 @@ xhtml = false
 
 [params]
 moto = "Welcome to Benzyme Ventures!"
+description = "We are a community of students, researchers, and entrepreneurs working together to advance the bioeconomy. Our mission is to empower the next generation of scientists and entrepreneurs through education, innovation, and sustainable development."
+
+[taxonomies]
+  program = "Program"
