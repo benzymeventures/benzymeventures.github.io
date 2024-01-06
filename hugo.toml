@@ -177,8 +177,8 @@ weight = 50
 [[menu.programs]]
 identifier = "ambassadors"
 pre = "stars"
-name = "College Ambassadors"
-post = "College Ambassadors"
+name = "University Ambassadors"
+post = "University Ambassadors"
 url = "programs/ambassadors"
 weight = 10
 
