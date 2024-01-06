@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on Benzyme Ventures</title>
-    <link>/categories/programs/</link>
+    <link>https://benzymeventures.github.io/categories/programs/</link>
     <description>Recent content in Programs on Benzyme Ventures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/programs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benzymeventures.github.io/categories/programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BioPieces</title>
-      <link>/programs/biopieces/</link>
+      <link>https://benzymeventures.github.io/programs/biopieces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/programs/biopieces/</guid>
+      <guid>https://benzymeventures.github.io/programs/biopieces/</guid>
       <description>BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.</description>
     </item>
     <item>
       <title>R-Guild</title>
-      <link>/programs/r-guild/</link>
+      <link>https://benzymeventures.github.io/programs/r-guild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/programs/r-guild/</guid>
+      <guid>https://benzymeventures.github.io/programs/r-guild/</guid>
       <description>R-Guild is a mentoring program initiated by Benzyme Ventures that aims to create an interactive platform for bioscience undergraduates and researchers to share knowledge, experiences, and advice in order to give these undergraduates a head start at achieving their dreams.</description>
     </item>
     <item>
       <title>Reports</title>
-      <link>/programs/reports/</link>
+      <link>https://benzymeventures.github.io/programs/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/programs/reports/</guid>
+      <guid>https://benzymeventures.github.io/programs/reports/</guid>
       <description>Reports is a Benzyme Ventures project that aims to encourage undergraduate students to write about the topics they are passionate about in the field of bioscience. The program provides editing and feedback to help students improve their writing style and delivery, and publishes their blog posts on a public platform to share their ideas with a wider audience.</description>
     </item>
     <item>
       <title>University Ambassadors</title>
-      <link>/programs/ambassadors/</link>
+      <link>https://benzymeventures.github.io/programs/ambassadors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/programs/ambassadors/</guid>
+      <guid>https://benzymeventures.github.io/programs/ambassadors/</guid>
       <description>The University Ambassadors program is an initiative by Benzyme Ventures to connect with Sri Lankan university students who are passionate about biotech. Ambassadors act as a bridge between Benzyme and the students, organizing events and workshops to help them learn and grow within the industry and build a community of biotech enthusiasts.</description>
     </item>
   </channel>

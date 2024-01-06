@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Benzyme Ventures</title>
-    <link>/categories/</link>
+    <link>https://benzymeventures.github.io/categories/</link>
     <description>Recent content in Categories on Benzyme Ventures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benzymeventures.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>/categories/blog/</link>
+      <link>https://benzymeventures.github.io/categories/blog/</link>
       <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
-      <guid>/categories/blog/</guid>
+      <guid>https://benzymeventures.github.io/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>https://benzymeventures.github.io/categories/news/</link>
       <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
-      <guid>/categories/news/</guid>
+      <guid>https://benzymeventures.github.io/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Programs</title>
-      <link>/categories/programs/</link>
+      <link>https://benzymeventures.github.io/categories/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/programs/</guid>
+      <guid>https://benzymeventures.github.io/categories/programs/</guid>
       <description></description>
     </item>
   </channel>
