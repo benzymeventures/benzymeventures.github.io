@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BoardOfDirectors on Benzyme Ventures</title>
+    <link>https://benzymeventures.github.io/boardofdirectors/</link>
+    <description>Recent content in BoardOfDirectors on Benzyme Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://benzymeventures.github.io/boardofdirectors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cris Silva</title>
+      <link>https://benzymeventures.github.io/boardofdirectors/crissilva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/boardofdirectors/crissilva/</guid>
+      <description>Executive Director</description>
+    </item>
+    <item>
+      <title>Minindu Perera</title>
+      <link>https://benzymeventures.github.io/boardofdirectors/mininduperera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/boardofdirectors/mininduperera/</guid>
+      <description>Director of Community Engagement</description>
+    </item>
+    <item>
+      <title>Nimesha Edirisinghe</title>
+      <link>https://benzymeventures.github.io/boardofdirectors/nimeshaedirisinghe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/boardofdirectors/nimeshaedirisinghe/</guid>
+      <description>Director of Science and Communication</description>
+    </item>
+    <item>
+      <title>Osadi Chamika</title>
+      <link>https://benzymeventures.github.io/boardofdirectors/osadichamika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/boardofdirectors/osadichamika/</guid>
+      <description>Director of Operations</description>
+    </item>
+  </channel>
+</rss>

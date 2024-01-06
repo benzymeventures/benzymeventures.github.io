@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AdvisoryBoards on Benzyme Ventures</title>
+    <link>https://benzymeventures.github.io/advisoryboard/</link>
+    <description>Recent content in AdvisoryBoards on Benzyme Ventures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://benzymeventures.github.io/advisoryboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chih Hung Lo</title>
+      <link>https://benzymeventures.github.io/advisoryboard/chihhunglo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/advisoryboard/chihhunglo/</guid>
+      <description>Post Doctoral Fellow</description>
+    </item>
+    <item>
+      <title>Dr. Mr. Ahac Maden</title>
+      <link>https://benzymeventures.github.io/advisoryboard/ahacmaden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benzymeventures.github.io/advisoryboard/ahacmaden/</guid>
+      <description>Founder</description>
+    </item>
+  </channel>
+</rss>
