@@ -110,16 +110,22 @@ disable_stay_uptodate = false
   heading = "Programs"
 
     [[params.p4.content]]
+    text = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+    
+  [params.p5]
+  heading = "From The Blog"
+
+    [[params.p5.content]]
     text = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."    
 
-  [params.p5]
+  [params.p6]
   heading = "Stay Up to Date"
   action = "#"
   label = "Email address"
   placeholder = "Enter your email"
   button = "Notify me"
 
-    [[params.p5.content]]
+    [[params.p6.content]]
     text = "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
 
 [params.social_media.github]

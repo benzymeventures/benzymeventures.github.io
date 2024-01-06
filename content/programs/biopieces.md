@@ -1,12 +1,15 @@
 ---
-title: "Biopieces"
+title: "BioPieces"
 draft: false
 language: en
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 summary: BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.
-author: TailBliss
+author: Benzyme Ventures
 program: Biopieces
 authorimage: ../assets/images/global/author.webp
+categories: Programs
+tags: Programs
+program: "BioPieces"
 ---
 __Advertisement :smile:__
 

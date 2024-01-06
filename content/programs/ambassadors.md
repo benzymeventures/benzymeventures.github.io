@@ -4,8 +4,11 @@ draft: false
 language: en
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 summary: The University Ambassadors program is an initiative by Benzyme Ventures to connect with Sri Lankan university students who are passionate about biotech. Ambassadors act as a bridge between Benzyme and the students, organizing events and workshops to help them learn and grow within the industry and build a community of biotech enthusiasts.
-author: TailBliss
+author: Benzyme Ventures
 authorimage: ../assets/images/global/author.webp
+categories: Programs
+tags: Programs
+program: "University Ambassadors"
 ---
 __Advertisement :smile:__
 

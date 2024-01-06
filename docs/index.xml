@@ -114,25 +114,11 @@
       <description>@tailwindcss/typography View on GitHub!&#xA;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&#xA;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&#xA;Tailwind CSS IntelliSense extension for Visual Studio Code&#xA;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;{{ markdown }}&#xD;&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description>
     </item>
     <item>
-      <title>Biopieces</title>
-      <link>/posts/program-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/program-1/</guid>
-      <description>BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.</description>
-    </item>
-    <item>
-      <title>Biopieces</title>
+      <title>BioPieces</title>
       <link>/programs/biopieces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/programs/biopieces/</guid>
       <description>BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.</description>
-    </item>
-    <item>
-      <title>R-Guild</title>
-      <link>/posts/program-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/program-2/</guid>
-      <description>R-Guild is a mentoring program initiated by Benzyme Ventures that aims to create an interactive platform for bioscience undergraduates and researchers to share knowledge, experiences, and advice in order to give these undergraduates a head start at achieving their dreams.</description>
     </item>
     <item>
       <title>R-Guild</title>
@@ -143,24 +129,10 @@
     </item>
     <item>
       <title>Reports</title>
-      <link>/posts/program-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/program-3/</guid>
-      <description>Reports is a Benzyme Ventures project that aims to encourage undergraduate students to write about the topics they are passionate about in the field of bioscience. The program provides editing and feedback to help students improve their writing style and delivery, and publishes their blog posts on a public platform to share their ideas with a wider audience.</description>
-    </item>
-    <item>
-      <title>Reports</title>
       <link>/programs/reports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/programs/reports/</guid>
       <description>Reports is a Benzyme Ventures project that aims to encourage undergraduate students to write about the topics they are passionate about in the field of bioscience. The program provides editing and feedback to help students improve their writing style and delivery, and publishes their blog posts on a public platform to share their ideas with a wider audience.</description>
-    </item>
-    <item>
-      <title>University Ambassadors</title>
-      <link>/posts/program-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/program-4/</guid>
-      <description>The University Ambassadors program is an initiative by Benzyme Ventures to connect with Sri Lankan university students who are passionate about biotech. Ambassadors act as a bridge between Benzyme and the students, organizing events and workshops to help them learn and grow within the industry and build a community of biotech enthusiasts.</description>
     </item>
     <item>
       <title>University Ambassadors</title>

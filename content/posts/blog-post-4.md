@@ -1,12 +1,15 @@
 ---
-title: "Biopieces"
+title: "Blog Post 4"
+date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: BioPieces is an online platform that connects bioscience students and researchers, providing a space for knowledge sharing and professional development. Through webinars and workshops, students can learn from industry leaders and researchers while expanding their understanding of the latest developments in the field.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
 author: TailBliss
-program: Biopieces
 authorimage: ../assets/images/global/author.webp
+categories: blog
+tags: blog
 ---
 __Advertisement :smile:__
 
@@ -183,7 +186,7 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- X^2^
+- 19^th^
 - H~2~O
 
 
@@ -252,4 +255,3 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
-
