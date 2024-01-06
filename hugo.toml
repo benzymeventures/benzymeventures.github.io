@@ -48,8 +48,220 @@ unsafe = true
 xhtml = false
 
 [params]
+author = "Benzyme Ventures"
+authorimage = "../assets/images/global/author.webp"
+og_image = "/images/tailbliss-cover.png"
 moto = "Welcome to Benzyme Ventures!"
 description = "We are a community of students, researchers, and entrepreneurs working together to advance the bioeconomy. Our mission is to empower the next generation of scientists and entrepreneurs through education, innovation, and sustainable development."
+disable_theme_toggle = false
+disable_stay_uptodate = false
+
+  [params.p1]
+  heading = "Our mission"
+  image = "images/pages/our-mission.png"
+
+    [[params.p1.content]]
+    text = "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+
+    [[params.p1.content]]
+    text = "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
+
+    [[params.p1.content]]
+    text = "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+
+  [params.p2]
+  heading = "Just in time for Hacktoberfest with JIT Tailwind."
+  image = "images/pages/hacktoberfest.jpg"
+
+    [[params.p2.content]]
+    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+
+  [params.p3]
+  heading = "Backed by world-renowned investors"
+
+    [[params.p3.content]]
+    text = "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+
+    [[params.p3.links]]
+    text = "Meet our investors and advisors"
+    url = "#"
+
+    [[params.p3.logos]]
+    identifier = "a"
+    image = "images/global/sample-logo.svg"
+    alt = "a"
+
+    [[params.p3.logos]]
+    identifier = "b"
+
+    [[params.p3.logos]]
+    identifier = "c"
+
+    [[params.p3.logos]]
+    identifier = "d"
+
+    [[params.p3.logos]]
+    identifier = "e"
+
+    [[params.p3.logos]]
+    identifier = "f"
+
+  [params.p4]
+  heading = "Programs"
+
+    [[params.p4.content]]
+    text = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."    
+
+  [params.p5]
+  heading = "Stay Up to Date"
+  action = "#"
+  label = "Email address"
+  placeholder = "Enter your email"
+  button = "Notify me"
+
+    [[params.p5.content]]
+    text = "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+
+[params.social_media.github]
+enabled = true
+url = "https://github.com/benzymeventures"
+
+[params.social_media.facebook]
+enabled = true
+url = "#"
+
+[params.social_media.instagram]
+enabled = true
+url = "#"
+
+[params.social_media.twitter]
+enabled = true
+url = "#" #@username
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/#"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "About Us"
+url = "/about/"
+weight = 20
+
+[[menu.main]]
+identifier = "programs"
+pre = "complexdropdown"
+name = "Programs"
+weight = 30
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 40
+
+[[menu.main]]
+identifier = "join"
+name = "Join Us"
+url = "https://docs.google.com/forms/d/e/1FAIpQLScfV4A-YO48vcQ6BdioxCFUbF5b4Ifjt77atFQdNw7UkWZf_w/viewform"
+weight = 50
+
+[[menu.programs]]
+identifier = "ambassadors"
+pre = "stars"
+name = "College Ambassadors"
+post = "College Ambassadors"
+url = "programs/ambassadors"
+weight = 10
+
+[[menu.programs]]
+identifier = "biopieces"
+pre = "comments"
+name = "BioPieces"
+post = "Bio Pieces"
+url = "programs/biopieces"
+weight = 20
+
+[[menu.programs]]
+identifier = "r-guild"
+pre = "piechart"
+name = "R Guild"
+post = "R Guild"
+url = "programs/r-guild"
+weight = 30
+
+[[menu.programs]]
+identifier = "reports"
+pre = "piechart"
+name = "Reports"
+post = "Reports"
+url = "programs/reports"
+weight = 40
+
+[[menu.footer]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.footer]]
+identifier = "blog"
+name = "Blog"
+url = "/categories/blog/"
+weight = 20
+
+[[menu.footer]]
+identifier = "news"
+name = "News"
+url = "/categories/news/"
+weight = 30
+
+[[menu.footer]]
+identifier = "programs"
+name = "Programs"
+url = "/programs/"
+weight = 40
+
+[[menu.footer]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 50
 
 [taxonomies]
-  program = "Program"
+program = "Programs"
+category = "Categories"
+tag = "Tags"
+
+[privacy.disqus]
+disable = false
+
+[privacy.googleAnalytics]
+anonymizeIP = true
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
+
+[privacy.instagram]
+disable = false
+simple = false
+
+[privacy.twitter]
+disable = false
+enableDNT = false
+simple = false
+
+[privacy.vimeo]
+disable = false
+enableDNT = false
+simple = false
+
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
+
+[module.hugoVersion]
+extended = true
+min = "0.104.0"
