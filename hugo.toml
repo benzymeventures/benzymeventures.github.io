@@ -191,19 +191,19 @@ url = "programs/biopieces"
 weight = 20
 
 [[menu.programs]]
-identifier = "r-guild"
-pre = "piechart"
-name = "R Guild"
-post = "R Guild"
-url = "programs/r-guild"
-weight = 30
-
-[[menu.programs]]
 identifier = "reports"
 pre = "piechart"
 name = "Reports"
 post = "Reports"
 url = "programs/reports"
+weight = 30
+
+[[menu.programs]]
+identifier = "r-guild"
+pre = "piechart"
+name = "R Guild"
+post = "R Guild"
+url = "programs/r-guild"
 weight = 40
 
 [[menu.footer]]
